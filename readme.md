@@ -1,64 +1,62 @@
-# 易开发
+# Developer Helper (English Version)
 
-> 易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息等。目前软件尚未完成，更多功能完善中
+> Developer Helper is a tool that helps developers quickly develop. Its functions include interface analysis, page information, etc.At present, the software has not been completed, and more functions are being improved.
 
-### 支持设备
+### Supported OS
 
 Android 5.0+
 
-### 截图
+### Screenshots
 
 ![](https://i.loli.net/2018/12/26/5c23070b18e43.png)![](https://i.loli.net/2018/12/26/5c23070c02a3a.png)
 
 ![](https://i.loli.net/2018/12/26/5c23070cda923.png)![](https://i.loli.net/2018/12/26/5c23070d9bd25.png)
 
+### New version features v1.0.3en
 
+* Add English translations (In progress)
+* Add Android Pie (sdk28) [EdXposed](https://github.com/solohsu/EdXposed) support.
+* Added shelling application management.
 
-### 新版本功能 v1.0.3
+### Supported functions
 
-* 新增Android Pie (sdk28) [EdXposed](https://github.com/solohsu/EdXposed)支持
-* 新增脱壳应用管理
-
-### 已支持功能
-
-1. 应用基本信息查看包括：
+1.  View basic application information, including：
  * versionCode/VersionName
  * TopActivity
- * 加固类型
+ * Reinforcement type
  * Uid
- * 安装时间/更新时间
- * Data目录
- * 应用脱壳（xposed）
-2.  apk信息：
- * apk目录
- * MD5/Sha1
- * sharedPreference查看和编辑
- * 数据库查看
-3.  布局分析
+ * Installation/Update Time
+ * Data Contents
+ * Application shelling（xposed）
+2.  APK Information：
+ * APK Contents
+ * MD5/SHA1
+ * sharedPreference View/Edit
+ * Database Viewer
+3.  Layout analysis
  * WidgetClass
  * ViewId
- * enable/clickable等状态
- * View文本内容
- * View位置
+ * enable/clickable & other states
+ * View text content
+ * View location
 
 ### TODO
 
-1. root功能(adb wifi、重启应用……)
-2. 应用抓包
+1. Root Function (adb wifi、restart app……)
+2. Application Capture
     
-### 下载
+### Download
 
 [https://github.com/WrBug/DeveloperHelper/releases](https://github.com/WrBug/DeveloperHelper/releases)
 
-酷安市场：
+CoolAPK：
 [https://www.coolapk.com/apk/com.wrbug.developerhelper](https://www.coolapk.com/apk/com.wrbug.developerhelper)
 
-### 帮助支持
+### Help/Support
 
-有问题请前往 [issues](https://github.com/WrBug/DeveloperHelper/issues) 讨论
-有好的建议加入群聊交流
+Questions for the original Developer? [issues](https://github.com/WrBug/DeveloperHelper/issues)
 
-### 群聊
+### Original Developer QQ Chat
 
 [627962572](https://jq.qq.com/?_wv=1027&k=5ulUikj)
 
